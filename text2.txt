@@ -1,1 +1,1 @@
-ls
+read the text2 file
